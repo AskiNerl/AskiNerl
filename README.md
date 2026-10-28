@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./aski-banner.png" alt="Aski — 17 y.o." width="100%" />
 
-  <h2>Навыки</h2>
+  
 
   <img src="https://skillicons.dev/icons?i=react,js,python,go,cpp,postgres,git,github&theme=dark" alt="React, JavaScript, Python, Go, C++, PostgreSQL, Git, GitHub" />
 
